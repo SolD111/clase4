@@ -1,0 +1,13 @@
+body{
+    background:url("foto.jpg") no-repeat top center;
+    background-size:500px 400px;
+}
+.texto{
+    background: rgba(128, 92, 228, 0.363);
+    border:solid;
+    font-family: "janson";
+    font-size: 200%;
+    margin: 0 auto;
+    padding: 2em;
+    width: 30%;
+}
